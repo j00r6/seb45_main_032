@@ -49,7 +49,7 @@
 |장근호|전찬혁|황규형|박진수|
 |:----:|:----:|:----:|:----:|
 [@SEBBE45JGH](https://github.com/SEBBE45JGH)|[@gord10011](https://github.com/gord10011)|[@rbgud4226](https://github.com/rbgud4226)|[@j00r6](https://github.com/j00r6)|
-|  - 펫시터 API <br /> - Exception 기능|  - 1:1 채팅 <br /> - AWS설계 및 환경 구축 | - 맴버 API <br /> - 회원가입/로그인/로그아웃 | - 메인 게시판 CRUD 및 서비스 신청 로직 <br /> - 이동 경로 GPS 기능 <br /> - 이동 경로 GPS 기능 |
+|  - 펫시터 API <br /> - Exception 기능|  - 1:1 채팅 <br /> - AWS설계 및 환경 구축 | - 맴버 API <br /> - 회원가입/로그인/로그아웃 | - 메인 게시판 CRUD <br /> - 서비스 신청 로직 <br /> - 이동 경로 GPS 기능 |
 </br>
 
 
