@@ -41,7 +41,7 @@
 |최도현|송유정|김철기|
 |:----:|:----:|:----:|
 |[@Dohyun12259](https://github.com/Dohyun12259)|[@udaeng8286](https://github.com/udaeng8286)|[@gprsto](https://github.com/sebfe45kimck)|
-|  - 서비스 소개 페이지 <br /> - 예약글 CRUD <br /> - 예약글 전체 조회 <br /> - 예약글 태그 필터 | - 마이페이지 <br /> - 펫시터 등록 및 수정 <br /> - 예약 내역 페이지 <br /> - 사용자의 산책 위치 | - Header,Nav 공동컴포넌트 <br /> - 예약글 상세 조회 <br /> - 회원가입/로그인/로그아웃 <br /> - 1:1 채팅방 |
+|  - 서비스 소개 페이지 <br /> - 메인 게시판 CRUD <br /> - 메인 게시판 전체 조회 <br /> - 예약글 태그 필터 | - 마이페이지 <br /> - 펫시터 등록 및 수정 <br /> - 예약 내역 페이지 <br /> - 사용자의 산책 위치 | - Header,Nav 공동컴포넌트 <br /> - 메인 게시판 상세 조회 <br /> - 회원가입/로그인/로그아웃 <br /> - 1:1 채팅방 |
 <br>
 
 
@@ -49,7 +49,7 @@
 |장근호|전찬혁|황규형|박진수|
 |:----:|:----:|:----:|:----:|
 [@SEBBE45JGH](https://github.com/SEBBE45JGH)|[@gord10011](https://github.com/gord10011)|[@rbgud4226](https://github.com/rbgud4226)|[@j00r6](https://github.com/j00r6)|
-|  - 펫시터 API <br /> - Exception 기능|  - 1:1 채팅 <br /> - AWS설계 및 환경 구축 | - 맴버 API <br /> - 회원가입/로그인/로그아웃 | - 메인 게시판 CRUD <br /> - 서비스 신청 로직 <br /> - 이동 경로 GPS 기능 |
+|  - 펫시터 API <br /> - 예외처리 기능|  - 1:1 채팅 <br /> - AWS설계 및 환경 구축 | - 맴버 API <br /> - 회원가입/로그인/로그아웃 | - 메인 게시판 CRUD <br /> - 서비스 신청 로직 <br /> - 이동 경로 GPS 기능 <br /> - 예외처리 기능 개선 |
 </br>
 
 
